@@ -1,2 +1,13 @@
-# weather-app
-A lightweight Python script that provides users with instantaneous weather data for a city of their choice. By leveraging the OpenWeatherMap API, the program bridges the gap between complex atmospheric data and a simple, user-friendly interface.
+# Weather App 🌤️
+
+A Python CLI script that fetches real-time weather data for any city using the OpenWeatherMap API.
+
+## Features
+- 🔍 Search weather by any city name
+- 🌡️ Shows current temperature in °C
+- 💧 Shows humidity percentage
+- 🌤️ Weather description with emojis
+
+## How to Run
+
+1. Clone the repo
